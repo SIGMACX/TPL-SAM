@@ -18,7 +18,7 @@ Accurate medical image segmentation remains challenging under limited annotation
 ## Main Figure
 
 <p align="center">
-  <img src="assets/overview.png" width="95%" alt="Overview of TPL-SAM">
+  <img src="overview.png" width="95%" alt="Overview of TPL-SAM">
 </p>
 
 <p align="center">
