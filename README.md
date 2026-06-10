@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Backbone-SAM-purple" alt="SAM">
 </p>
 
-Official implementation of **TPL-SAM**, a trustworthy prompt learning framework with the Segment Anything Model (SAM) for semi-supervised medical image segmentation.
+**TPL-SAM**, a trustworthy prompt learning framework with the Segment Anything Model (SAM) for semi-supervised medical image segmentation.
 
 > **Note**: The training code, pretrained checkpoints, and detailed reproduction scripts will be released soon.
 
